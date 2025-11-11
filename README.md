@@ -1,6 +1,6 @@
-# cointracker-assignment
+# bitcoin-wallet-tracker
 
-# CoinTracker Bitcoin Wallet Tracker
+# Bitcoin Wallet Tracker
 
 A prototype system for tracking Bitcoin wallet addresses, synchronizing transactions, and viewing balances.
 
